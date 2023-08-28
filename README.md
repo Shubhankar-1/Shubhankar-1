@@ -80,10 +80,11 @@
 
 ###
 
+  ![](https://github-readme-stats.vercel.app/api?username=Shubhankar-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhankar-1&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+  ![](https://github-contributor-stats.vercel.app/api?username=Shubhankar-1&limit=6&theme=dark&combine_all_yearly_contributions=true&custom_title=Github%20Contribution%20Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhankar-1&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shubhankar-1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhankar-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
